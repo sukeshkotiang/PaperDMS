@@ -1,4 +1,4 @@
-package com.paper.dms.share;
+package com.paper.service.management.document.share;
 
 import javax.persistence.Id;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.paper.dms.directory.file;
+package com.paper.service.management.document.directory.file;
 
 import javax.persistence.Id;
 

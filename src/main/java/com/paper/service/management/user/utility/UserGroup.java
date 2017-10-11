@@ -1,4 +1,4 @@
-package com.paper.ums.utility;
+package com.paper.service.management.user.utility;
 
 import javax.persistence.Id;
 

@@ -1,4 +1,4 @@
-package com.paper.dms.settings;
+package com.paper.service.management.document.settings;
 
 import javax.persistence.Id;
 
